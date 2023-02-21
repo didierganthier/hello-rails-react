@@ -92,7 +92,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:amejid/hello-rails-react.git
+  git clone git@github.com:didierganthier/hello-rails-react.git
 ```
 
 ### Install
