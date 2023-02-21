@@ -26,4 +26,8 @@ module.exports = {
       maxChunks: 1,
     }),
   ],
+  performance: {
+    maxEntrypointSize: 512000,
+    maxAssetSize: 512000
+  },
 };
